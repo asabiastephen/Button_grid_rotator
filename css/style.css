@@ -1,0 +1,48 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  position: relative;
+  padding: 0;
+  margin: 0;
+}
+
+.main-header {
+  background: #ad95ea;
+  margin-bottom: 20px;
+  line-height: 3.5;
+}
+
+#header h1 {
+  color: #fff;
+  text-align: center;
+  font-size: 30px;
+}
+
+.buttonContainer {
+  margin-top: 100px;
+  margin-left: 200px;
+  width: 250px;
+  position: absolute;
+  top: 130%;
+  left: 27%;
+}
+
+button {
+  width: 30%;
+  line-height: 2.7;
+  font-size: 24px;
+  box-sizing: content-box;
+  background: #e7dfdf;
+}
+
+#btns {
+  border: 10px solid #ca9661;
+  border-style: outset;
+}
+
+.btn5:hover {
+  background-color: #b8e26f;
+}
